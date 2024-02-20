@@ -5,7 +5,8 @@ This is a simple calculator app built using Flutter. It provides basic arithmeti
 Basic arithmetic operations: Addition, subtraction, multiplication, and division.
 Clear button to reset the input.
 Responsive design for various screen sizes.
-Screenshots
+
+Screenshots :
 
 
 ## Installation
@@ -20,5 +21,5 @@ Use the clear button to reset the input.
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
