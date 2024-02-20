@@ -10,7 +10,7 @@ Screenshots :
 
 
 ## Installation
-Clone this repository: git clone https://github.com/Aziz-Aroug/Calculator-Flutter/tree/master.git
+Clone this repository: git clone git clone https://github.com/Aziz-Aroug/Calculator-Flutter.git
 Navigate to the project directory.
 Run flutter pub get to install dependencies.
 Run the app on an emulator or physical device using flutter run.
